@@ -4,6 +4,6 @@ public class TestBranch {
 	public static void main(String[] args) {
 		System.out.println("Test Branch");
 		System.out.println("Test Branch02");
-		System.out.println("测试Eclipse 合并分支");
+		System.out.println("娴嬭瘯Eclipse 鍚堝苟鍒嗘敮");
 	}
 }
