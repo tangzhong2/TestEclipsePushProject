@@ -5,5 +5,7 @@ public class TestBranch {
 		System.out.println("Test Branch");
 		System.out.println("Test Branch02");
 		System.out.println("测试Eclipse 合并分支");
+		
+		
 	}
 }
